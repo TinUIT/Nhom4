@@ -1,1 +1,1 @@
-web gunicorn social_book.wsgi:application --log-file -
+web gunicorn Calculator.wsgi:application --log-file -
